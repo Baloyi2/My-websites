@@ -1,6 +1,6 @@
 const websites = [
   { name: "Joy Hair Salon Website", url: "https://joyhairsalon.netlify.app/" }
-  // Add more sites here if needed
+  // Add more links here as Nwayitelo creates more websites
 ];
 
 const list = document.getElementById('website-list');
