@@ -1,6 +1,12 @@
 const websites = [
-  { name: "Joy Hair Salon Website", url: "https://joyhairsalon.netlify.app/" }
-  // Add more links here as Nwayitelo creates more websites
+  {
+    name: "Joy Hair Salon Website",
+    url: "https://joyhairsalon.netlify.app/"
+  },
+  {
+    name: "Nwayitelo's Birthday Wishes Website",
+    url: "https://baloyi-bithday-wishs.netlify.app/"
+  }
 ];
 
 const list = document.getElementById('website-list');
