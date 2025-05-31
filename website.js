@@ -1,10 +1,11 @@
+// Website links
 const websites = [
   {
     name: "Joy Hair Salon Website",
     url: "https://joyhairsalon.netlify.app/"
   },
   {
-    name: "Nwayitelo's Birthday Wishes Website",
+    name: "Nwayitelo wishes you Happy Birthday",
     url: "https://baloyi-bithday-wishs.netlify.app/"
   }
 ];
